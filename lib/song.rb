@@ -5,3 +5,5 @@ class Song
     @title
   end
 end
+
+#class Song has a title and an artist
